@@ -19,6 +19,7 @@ A card game called Big Two made in Java with multiplayer support on a network. G
 3. Proper use of exceptions for error handling
 4. Multi-threaded approach to handle networking
 5. Java Sockets to handle network multiplayer
+6. Proper comments and documentation has been made for all classes and methods
 
 ### Game rules
 
